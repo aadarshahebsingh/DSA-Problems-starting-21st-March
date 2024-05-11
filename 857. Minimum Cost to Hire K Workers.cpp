@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     double mincostToHireWorkers(vector<int>& quality, vector<int>& wage, int k) {
         priority_queue<pair<double, int>, vector<pair<double, int>>, greater<pair<double,int>>> pqmn;
         priority_queue<int> pqmx;
