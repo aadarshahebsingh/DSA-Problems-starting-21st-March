@@ -2,6 +2,7 @@ class Solution {
 public:
     int equalSubstring(string s, string t, int maxCost) {
         int left = 0, currentCost = 0, maxLength = 0;
+        
         int n = s.size();
 
         for (int right = 0; right < n; ++right) {
