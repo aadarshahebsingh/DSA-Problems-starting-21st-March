@@ -60,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0217-contains-duplicate](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
