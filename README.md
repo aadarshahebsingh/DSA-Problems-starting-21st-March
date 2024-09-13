@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0217-contains-duplicate) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
