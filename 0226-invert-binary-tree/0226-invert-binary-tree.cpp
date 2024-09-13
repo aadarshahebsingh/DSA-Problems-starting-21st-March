@@ -19,9 +19,19 @@ public:
         dfs(root->left);
         dfs(root->right);
     }
-    TreeNode* invertTree(TreeNode* root) {\
+    TreeNode* invertTree(TreeNode* root) {
         if(root==nullptr)return nullptr;
-        dfs(root);
+        queue<TreeNode*> q;
+        q.push(root);
+        while(!q.empty()){
+            TreeNode* temp=q.front();
+            TreeNode* hell=temp->left;
+            temp->left=temp->right;
+            temp->right=hell;
+            q.pop();
+            if(temp->left)q.push(temp->left);
+            if(temp->right)q.push(temp->right);
+        }
         return root;
     }
 };
