@@ -12,14 +12,20 @@ class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         if(root==nullptr)return nullptr;
-        // TreeNode* curr=root;
-        if(p->val>root->val && q->val>root->val){
-            return lowestCommonAncestor(root->right,p,q);
+        TreeNode* curr=root;
+        
+        while(curr!=nullptr){
+            if(curr->val>p->val && curr->val>q->val){
+                // cout<<curr->val<<" "<<p->val<<endl;
+                // cout<<"ehllo"<<endl;
+                curr=curr->left;
+            }
+            else if(curr->val<p->val && curr->val<q->val){
+                // cout<<"fd"<<endl;
+                curr=curr->right;
+            }
+            else return curr;
         }
-        if(p->val<root->val && q->val<root->val){
-            return lowestCommonAncestor(root->left,p,q);
-        }
-        return root;
-
+        return curr;
     }
 };
