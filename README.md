@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0238-product-of-array-except-self) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
