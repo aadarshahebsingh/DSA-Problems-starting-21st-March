@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0015-3sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0152-maximum-product-subarray) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
