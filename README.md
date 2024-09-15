@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0322-coin-change) |
+| [0907-koko-eating-bananas](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0907-koko-eating-bananas) |
 | [1428-jump-game-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1447-jump-game-iv) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0907-koko-eating-bananas](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0907-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
