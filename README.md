@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1428-jump-game-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1447-jump-game-iv) |
+| [1646-kth-missing-positive-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0907-koko-eating-bananas](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1646-kth-missing-positive-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1646-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
