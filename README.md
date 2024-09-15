@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0322-coin-change) |
 | [1428-jump-game-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1428-jump-game-iii) |
+| [1447-jump-game-iv](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1447-jump-game-iv) |
 ## Binary Tree
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0322-coin-change) |
 | [1428-jump-game-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1428-jump-game-iii) |
+| [1447-jump-game-iv](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1447-jump-game-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0217-contains-duplicate) |
+| [1447-jump-game-iv](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1447-jump-game-iv) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Divide and Conquer
 |  |
