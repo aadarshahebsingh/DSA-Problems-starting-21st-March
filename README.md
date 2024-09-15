@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0572-subtree-of-another-tree) |
+| [1428-jump-game-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1428-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0322-coin-change) |
+| [1428-jump-game-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1428-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0322-coin-change) |
+| [1428-jump-game-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1428-jump-game-iii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
