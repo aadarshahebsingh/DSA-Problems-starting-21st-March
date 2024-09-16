@@ -1,30 +1,35 @@
 class Solution {
 public:
-    void dfs(int node,vector<int>& visited,vector<int>adj[],set<int>& ancestors){
-        visited[node]=1;
-        for(int parent:adj[node]){
-            if(!visited[parent]){
-                dfs(parent,visited,adj,ancestors);
-            }
-            ancestors.insert(parent);
-        }
-    }
     vector<vector<int>> getAncestors(int n, vector<vector<int>>& edges) {
-        vector<int> adj[n];
-        for(int i=0;i<edges.size();i++){
-            adj[edges[i][1]].push_back(edges[i][0]);
+        vector<vector<int>> adj(n);
+        for (auto it : edges) {
+            adj[it[1]].push_back(it[0]);
         }
-        vector<vector<int>> ans(n);
-        for(int i=0;i<n;i++){
-            // vector<int> temp;
-            vector<int> visited(n,0);
-            set<int> anc;
-            dfs(i,visited,adj,anc);
 
-            ans[i]=vector<int>(anc.begin(),anc.end());
-            sort(ans[i].begin(),ans[i].end());
-            
+        vector<vector<int>> ans;
+
+        for (int i = 0; i < n; i++) {
+            queue<int> q;
+            q.push(i);
+            vector<int> v;
+            vector<int> vis(n, 0);
+
+            while (!q.empty()) {
+                for (auto it : adj[q.front()]) {
+                    if (!vis[it]) {
+                        q.push(it);
+                        v.push_back(it);
+                        vis[it] = 1;
+                    }
+                }
+                q.pop();
+            }
+
+            sort(v.begin(), v.end());
+
+            ans.push_back(v);
         }
+
         return ans;
     }
 };
