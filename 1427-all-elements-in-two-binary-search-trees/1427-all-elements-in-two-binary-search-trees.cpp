@@ -1,37 +1,46 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    void dfs(TreeNode* root, vector<int>& arr) {
-        if (root == nullptr) return;
-        dfs(root->left, arr);
-        arr.push_back(root->val);
-        dfs(root->right, arr);
-    }
-
     vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
-        vector<int> vec1;
-        vector<int> vec2;
-        dfs(root1, vec1);
-        dfs(root2, vec2);
-        vector<int> result;
-        int i = 0, j = 0;
-        int len1 = vec1.size(), len2 = vec2.size();
-        while (i < len1 && j < len2) {
-            if (vec1[i] < vec2[j]) {
-                result.push_back(vec1[i]);
-                i++;
-            } else {
-                result.push_back(vec2[j]);
-                j++;
+        stack<TreeNode*> st1,st2;
+        // st1.push(root1);st2.push(root2);
+        vector<int> ans;
+        while(root1 ||!st1.empty()|| root2 ||!st2.empty()){
+            while(root1){
+                st1.push(root1);
+                root1=root1->left;
             }
-        }
-        while (i < len1) {
-            result.push_back(vec1[i]);
-            i++;
-        }
-        while (j < len2) {
-            result.push_back(vec2[j]);
-            j++;
-        }
-        return result;
+            while(root2){
+                st2.push(root2);
+                root2=root2->left;
+            }
+
+            // focus on any one tree and hold the other traversal
+            if(st2.empty() || (!st1.empty() && st1.top()->val<=st2.top()->val)){
+                root1=st1.top();
+                ans.push_back(root1->val);
+                st1.pop();
+                root1=root1->right;
+            }
+            // else(st1.empty()||(!st2.empty() && st2.top()->val<=st1.top()->val)){
+            else{
+                root2=st2.top();
+                ans.push_back(root2->val);
+                st2.pop();
+                root2=root2->right;
+            }
+
+
+        }return ans;
     }
 };
