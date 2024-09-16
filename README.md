@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0102-binary-tree-level-order-traversal) |
 | [0207-course-schedule](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0322-coin-change) |
 | [1428-jump-game-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1428-jump-game-iii) |
@@ -178,10 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0210-course-schedule-ii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0210-course-schedule-ii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
