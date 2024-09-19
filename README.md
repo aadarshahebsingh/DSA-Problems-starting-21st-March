@@ -66,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0410-split-array-largest-sum) |
 ## String Matching
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0539-minimum-time-difference) |
 | [0572-subtree-of-another-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0572-subtree-of-another-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -175,11 +177,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0539-minimum-time-difference) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0241-different-ways-to-add-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -208,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0920-uncommon-words-from-two-sentences) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
