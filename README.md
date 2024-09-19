@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0070-climbing-stairs) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0005-longest-palindromic-substring) |
 | [0179-largest-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0539-minimum-time-difference) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0018-4sum) |
 ## Simulation
