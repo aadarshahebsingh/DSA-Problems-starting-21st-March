@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0432-all-oone-data-structure) |
+| [0725-split-linked-list-in-parts](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
