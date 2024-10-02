@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1256-rank-transform-of-an-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1256-rank-transform-of-an-array) |
 | [1428-jump-game-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1447-jump-game-iv) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0217-contains-duplicate) |
 | [0432-all-oone-data-structure](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1256-rank-transform-of-an-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1256-rank-transform-of-an-array) |
 | [1447-jump-game-iv](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1447-jump-game-iv) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0217-contains-duplicate) |
 | [0539-minimum-time-difference](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0539-minimum-time-difference) |
 | [0630-course-schedule-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0630-course-schedule-iii) |
+| [1256-rank-transform-of-an-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1256-rank-transform-of-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1752-arithmetic-subarrays](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1752-arithmetic-subarrays) |
 ## Prefix Sum
