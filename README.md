@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1646-kth-missing-positive-number) |
+| [1694-make-sum-divisible-by-p](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1694-make-sum-divisible-by-p) |
 | [1752-arithmetic-subarrays](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1752-arithmetic-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2155-find-missing-observations](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2155-find-missing-observations) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-jump-game-iv](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1447-jump-game-iv) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1694-make-sum-divisible-by-p) |
 | [1752-arithmetic-subarrays](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1752-arithmetic-subarrays) |
 | [2755-extra-characters-in-a-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0410-split-array-largest-sum) |
 | [0731-my-calendar-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0731-my-calendar-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1694-make-sum-divisible-by-p](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1694-make-sum-divisible-by-p) |
 ## Bit Manipulation
 |  |
 | ------- |
