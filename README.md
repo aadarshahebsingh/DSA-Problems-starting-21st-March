@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0572-subtree-of-another-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0217-contains-duplicate) |
 | [0432-all-oone-data-structure](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1256-rank-transform-of-an-array) |
 | [1447-jump-game-iv](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1447-jump-game-iv) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0018-4sum) |
+| [0567-permutation-in-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Simulation
 |  |
@@ -300,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1497-design-a-stack-with-increment-operation) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
