@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Function
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2155-find-missing-observations](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2155-find-missing-observations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
 | ------- |
