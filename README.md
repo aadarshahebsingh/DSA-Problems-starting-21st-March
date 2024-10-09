@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0572-subtree-of-another-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1923-sentence-similarity-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1923-sentence-similarity-iii) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0410-split-array-largest-sum) |
 | [0630-course-schedule-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0630-course-schedule-iii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Graph
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
