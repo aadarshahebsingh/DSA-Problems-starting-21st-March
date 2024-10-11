@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1752-arithmetic-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1923-sentence-similarity-iii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2155-find-missing-observations](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2155-find-missing-observations) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1694-make-sum-divisible-by-p) |
 | [1752-arithmetic-subarrays](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1752-arithmetic-subarrays) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0630-course-schedule-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0630-course-schedule-iii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Counting
 |  |
 | ------- |
