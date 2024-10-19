@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1923-sentence-similarity-iii) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2155-find-missing-observations](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2155-find-missing-observations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0241-different-ways-to-add-parentheses) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Rolling Hash
 |  |
 | ------- |
