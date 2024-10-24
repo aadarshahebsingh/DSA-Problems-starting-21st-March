@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0572-subtree-of-another-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0988-flip-equivalent-binary-trees) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0386-lexicographical-numbers) |
 | [0572-subtree-of-another-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0572-subtree-of-another-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0988-flip-equivalent-binary-trees) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1428-jump-game-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0572-subtree-of-another-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0988-flip-equivalent-binary-trees) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2677-cousins-in-binary-tree-ii) |
