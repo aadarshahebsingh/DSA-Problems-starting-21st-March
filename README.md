@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0539-minimum-time-difference) |
+| [0564-find-the-closest-palindrome](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0572-subtree-of-another-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0263-ugly-number) |
 | [0539-minimum-time-difference](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0539-minimum-time-difference) |
+| [0564-find-the-closest-palindrome](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0564-find-the-closest-palindrome) |
 | [0670-maximum-swap](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0670-maximum-swap) |
 | [2155-find-missing-observations](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2155-find-missing-observations) |
 ## Memoization
