@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1197-parsing-a-boolean-expression) |
