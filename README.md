@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1646-kth-missing-positive-number) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1694-make-sum-divisible-by-p) |
 | [1752-arithmetic-subarrays](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1752-arithmetic-subarrays) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1646-kth-missing-positive-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1646-kth-missing-positive-number) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0018-4sum) |
 | [0567-permutation-in-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0567-permutation-in-string) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1923-sentence-similarity-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Backtracking
 |  |
 | ------- |
