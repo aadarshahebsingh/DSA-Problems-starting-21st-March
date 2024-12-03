@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0410-split-array-largest-sum) |
+| [1240-stone-game-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2554-minimum-total-distance-traveled) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0907-koko-eating-bananas) |
 | [1002-maximum-width-ramp](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1002-maximum-width-ramp) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1240-stone-game-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0410-split-array-largest-sum) |
 | [0731-my-calendar-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1240-stone-game-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1240-stone-game-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1940-maximum-xor-for-each-query) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0564-find-the-closest-palindrome) |
 | [0670-maximum-swap](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0670-maximum-swap) |
+| [1240-stone-game-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1240-stone-game-ii) |
 | [2155-find-missing-observations](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2155-find-missing-observations) |
 | [2716-prime-subtraction-operation](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2716-prime-subtraction-operation) |
 ## Memoization
@@ -515,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2201-valid-arrangement-of-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
