@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-jump-game-iv](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1447-jump-game-iv) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1002-maximum-width-ramp) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Backtracking
 |  |
