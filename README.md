@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1240-stone-game-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0539-minimum-time-difference) |
 | [0630-course-schedule-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0731-my-calendar-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0780-max-chunks-to-make-sorted) |
 | [0859-design-circular-deque](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0859-design-circular-deque) |
