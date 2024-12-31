@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1025-minimum-cost-for-tickets) |
 | [1240-stone-game-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0907-koko-eating-bananas) |
 | [1002-maximum-width-ramp](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1002-maximum-width-ramp) |
+| [1025-minimum-cost-for-tickets](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1025-minimum-cost-for-tickets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1240-stone-game-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1256-rank-transform-of-an-array) |
