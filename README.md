@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2155-find-missing-observations) |
 | [2164-two-best-non-overlapping-events](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1972-rotating-the-box](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2145-grid-game) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2794-maximum-number-of-moves-in-a-grid) |
