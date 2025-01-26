@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2201-valid-arrangement-of-pairs](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2201-valid-arrangement-of-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2201-valid-arrangement-of-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3189-find-champion-ii) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0210-course-schedule-ii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
