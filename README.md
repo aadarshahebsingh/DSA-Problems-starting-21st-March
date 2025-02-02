@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-jump-game-iv](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1447-jump-game-iv) |
 | [1558-course-schedule-iv](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1558-course-schedule-iv) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1876-map-of-highest-peak](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1752-arithmetic-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1876-map-of-highest-peak](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1923-sentence-similarity-iii) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0999-regions-cut-by-slashes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1876-map-of-highest-peak](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2145-grid-game) |
