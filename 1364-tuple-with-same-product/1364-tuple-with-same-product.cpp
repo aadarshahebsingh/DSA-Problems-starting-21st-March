@@ -14,7 +14,9 @@ public:
         }
 
         for(auto x:freq){
-            cnt+=8*nC2(x.second);
+            if(x.second>1){
+                cnt+=8*nC2(x.second);
+            }
         }
         return cnt;
     }
