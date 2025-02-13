@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3429-special-array-i) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3447-clear-digits) |
 ## Math
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Counting
 |  |
 | ------- |
