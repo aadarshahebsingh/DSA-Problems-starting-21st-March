@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0572-subtree-of-another-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0988-flip-equivalent-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0999-regions-cut-by-slashes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1428-jump-game-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0999-regions-cut-by-slashes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1428-jump-game-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1447-jump-game-iv](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1447-jump-game-iv) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0572-subtree-of-another-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0988-flip-equivalent-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1447-jump-game-iv](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1447-jump-game-iv) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -573,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0432-all-oone-data-structure) |
 | [0731-my-calendar-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0859-design-circular-deque) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
