@@ -29,7 +29,7 @@ public:
     }
     
     bool find(int target) {
-        if(tree.find(target)!=tree.end())return true;
+        if(tree.count(target))return true;
         return false;
     }
 };
