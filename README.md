@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1025-minimum-cost-for-tickets) |
+| [1170-shortest-common-supersequence](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1304-longest-happy-string) |
