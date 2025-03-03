@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2465-shifting-letters-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2465-shifting-letters-ii) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
