@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1447-jump-game-iv](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1447-jump-game-iv) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1502-construct-k-palindrome-strings) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2599-take-k-of-each-character-from-left-and-right) |
