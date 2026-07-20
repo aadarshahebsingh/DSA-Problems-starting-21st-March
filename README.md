@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0226-invert-binary-tree) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0200-number-of-islands](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0226-invert-binary-tree) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0322-coin-change) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0999-regions-cut-by-slashes) |
@@ -774,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
