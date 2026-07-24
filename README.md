@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0127-word-ladder](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0210-course-schedule-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0127-word-ladder](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0241-different-ways-to-add-parentheses) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0217-contains-duplicate) |
 | [0432-all-oone-data-structure](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0567-permutation-in-string) |
