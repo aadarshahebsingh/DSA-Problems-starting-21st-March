@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String Matching
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3447-clear-digits](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3451-string-compression-iii) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3195-separate-black-and-white-balls) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
 |  |
 | ------- |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3195-separate-black-and-white-balls) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Graph
 |  |
 | ------- |
