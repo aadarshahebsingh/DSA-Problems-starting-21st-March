@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3291-find-if-array-can-be-sorted) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2755-extra-characters-in-a-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3483-alternating-groups-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3483-alternating-groups-ii) |
