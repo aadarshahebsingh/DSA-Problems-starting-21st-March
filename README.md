@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1972-rotating-the-box) |
+| [2029-stone-game-ix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2029-stone-game-ix) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2107-find-unique-binary-string) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2029-stone-game-ix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2029-stone-game-ix) |
 | [2155-find-missing-observations](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2155-find-missing-observations) |
 | [2649-count-total-number-of-colored-cells](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2716-prime-subtraction-operation) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2029-stone-game-ix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2029-stone-game-ix) |
 | [2089-maximum-matrix-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2089-maximum-matrix-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2029-stone-game-ix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2029-stone-game-ix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -777,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1240-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2029-stone-game-ix) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -802,4 +807,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0547-number-of-provinces) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
