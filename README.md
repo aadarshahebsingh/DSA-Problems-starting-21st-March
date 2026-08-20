@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3291-find-if-array-can-be-sorted) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3447-clear-digits) |
