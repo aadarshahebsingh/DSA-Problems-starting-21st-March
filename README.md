@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3227-find-missing-and-repeated-values](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3227-find-missing-and-repeated-values) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Memoization
 |  |
 | ------- |
