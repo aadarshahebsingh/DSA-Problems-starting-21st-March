@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3291-find-if-array-can-be-sorted) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2716-prime-subtraction-operation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3643-zero-array-transformation-ii) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3394-minimum-array-end) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3227-find-missing-and-repeated-values](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3227-find-missing-and-repeated-values) |
 ## Memoization
 |  |
@@ -771,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2716-prime-subtraction-operation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -821,4 +826,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2029-stone-game-ix) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
