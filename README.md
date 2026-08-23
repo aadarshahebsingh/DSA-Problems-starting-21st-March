@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1923-sentence-similarity-iii) |
+| [1927-sum-game](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1927-sum-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2107-find-unique-binary-string) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1927-sum-game](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2029-stone-game-ix) |
 | [2155-find-missing-observations](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2155-find-missing-observations) |
 | [2649-count-total-number-of-colored-cells](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2649-count-total-number-of-colored-cells) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1927-sum-game](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2029-stone-game-ix) |
 | [2089-maximum-matrix-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2089-maximum-matrix-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2300-construct-string-with-repeat-limit) |
@@ -789,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1240-stone-game-ii) |
+| [1927-sum-game](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2029-stone-game-ix) |
 ## Strongly Connected Component
 |  |
