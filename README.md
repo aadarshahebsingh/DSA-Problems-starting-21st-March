@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1872-stone-game-viii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1872-stone-game-viii) |
 | [2164-two-best-non-overlapping-events](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2562-count-ways-to-build-good-strings) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1872-stone-game-viii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1872-stone-game-viii) |
 | [1876-map-of-highest-peak](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1694-make-sum-divisible-by-p) |
+| [1872-stone-game-viii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1872-stone-game-viii) |
 | [1940-maximum-xor-for-each-query](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2145-grid-game) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1872-stone-game-viii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1872-stone-game-viii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1927-sum-game](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2029-stone-game-ix) |
@@ -792,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1240-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2029-stone-game-ix) |
 ## Strongly Connected Component
@@ -822,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -830,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
