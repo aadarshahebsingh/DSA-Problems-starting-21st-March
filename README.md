@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3643-zero-array-transformation-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |
