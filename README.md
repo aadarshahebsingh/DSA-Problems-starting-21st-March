@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3643-zero-array-transformation-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3227-find-missing-and-repeated-values](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3227-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Memoization
 |  |
 | ------- |
