@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Hash Function
 |  |
 | ------- |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3195-separate-black-and-white-balls) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Matrix
 |  |
 | ------- |
