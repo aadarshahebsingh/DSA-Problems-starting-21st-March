@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3643-zero-array-transformation-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3643-zero-array-transformation-ii) |
+| [3903-smallest-stable-index-i](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
