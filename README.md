@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String Matching
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3427-special-array-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2716-prime-subtraction-operation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3427-special-array-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3291-find-if-array-can-be-sorted) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
 | ------- |
