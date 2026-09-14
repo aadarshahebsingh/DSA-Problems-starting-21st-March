@@ -560,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0564-find-the-closest-palindrome) |
 | [0670-maximum-swap](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0670-maximum-swap) |
+| [0836-rectangle-overlap](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0836-rectangle-overlap) |
 | [1240-stone-game-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -860,4 +861,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
