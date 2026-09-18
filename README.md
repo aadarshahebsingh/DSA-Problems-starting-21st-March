@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1502-construct-k-palindrome-strings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1502-construct-k-palindrome-strings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1256-rank-transform-of-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1752-arithmetic-subarrays](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1752-arithmetic-subarrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1502-construct-k-palindrome-strings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1927-sum-game](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/2029-stone-game-ix) |
