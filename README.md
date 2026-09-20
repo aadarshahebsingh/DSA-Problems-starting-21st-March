@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3498-reverse-degree-of-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Hash Function
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
