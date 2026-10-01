@@ -1,23 +1,17 @@
-#include <vector>
-using namespace std;
-
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> result(n, 1);
-        int prefixProduct = 1;
-        for (int i = 0; i < n; i++) {
-            result[i] = prefixProduct;
-            prefixProduct *= nums[i];
+        vector<int> prefixProduct;
+        int product=1,temp=1,n=nums.size();
+        for(int i=0;i<n;i++){
+            product*=nums[i];
+            prefixProduct.push_back(product);
         }
-        
-        int suffixProduct = 1;
-        for (int i = n - 1; i >= 0; i--) {
-            result[i] *= suffixProduct;
-            suffixProduct *= nums[i];
+        for(int i=n-1;i>0;i--){
+            prefixProduct[i]=prefixProduct[i-1]*temp;
+            temp*=nums[i];
         }
-        
-        return result;
+        prefixProduct[0]=temp;
+        return prefixProduct;
     }
 };
