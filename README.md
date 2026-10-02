@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0070-climbing-stairs) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0214-shortest-palindrome) |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/1160-letter-tile-possibilities) |
@@ -882,4 +885,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
