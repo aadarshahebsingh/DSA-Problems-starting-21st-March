@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0127-word-ladder) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0127-word-ladder) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0263-ugly-number) |
