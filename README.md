@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0018-4sum) |
 | [0040-combination-sum-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0055-jump-game) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0263-ugly-number) |
@@ -799,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aadarshahebsingh/DSA-Problems-starting-21st-March/tree/master/0733-flood-fill) |
